@@ -12,4 +12,4 @@ function sortearLink() {
 
     window.location.href = links[numeroSorteado];
 }
-setTimeout(sortearLink, 1000);
+setTimeout(sortearLink, 500);
